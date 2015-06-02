@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Anurag/cs61b/amg/lib/algs4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anurag/cs61b/amg/lib/algs4-package.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anurag/cs61b/amg/lib/checkstyle-5.9-all.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anurag/cs61b/amg/lib/gjdb.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anurag/cs61b/amg/lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anurag/cs61b/amg/lib/jh61b.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anurag/cs61b/amg/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anurag/cs61b/amg/lib/StaffGitlet_obf.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anurag/cs61b/amg/lib/staffp0_obf.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anurag/cs61b/amg/lib/stdlib.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anurag/cs61b/amg/lib/stdlib-package.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anurag/cs61b/amg/lib/xchart-2.4.3.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
