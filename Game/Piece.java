@@ -1,8 +1,7 @@
 package Game;
 
-
 public class Piece {
-    
+
     private boolean isWhite;
     private Board bd;
     private int c1;
@@ -21,15 +20,15 @@ public class Piece {
     public boolean isWhite() {
         return isWhite;
     }
-    
+
     public String getType() {
         return type;
     }
-    
+
     public int getX() {
         return c1;
     }
-    
+
     public int getY() {
         return c2;
     }
