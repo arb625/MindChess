@@ -1,4 +1,5 @@
-package MindChess;
+package Game;
+
 
 public class Piece {
     

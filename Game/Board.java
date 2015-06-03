@@ -1,4 +1,4 @@
-package MindChess;
+package Game;
 
 public class Board {
     
